@@ -10,20 +10,30 @@ a {
 
 p {
   color: #fff;
+  font-style: Serif;
 }
 
 h1 {
   color: #fff;
+  font-style: Serif;
 }
 
 h2 {
   color: #fff;
+  font-style: Serif;
 }
 
 h3 {
   color: #fff;
+  font-style: Serif;
 }
 
 h4 {
   color: #fff;
+  font-style: Serif;
+}
+
+footer {
+  font-style: Serif;
+  position: bottom;
 }
