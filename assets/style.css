@@ -8,6 +8,10 @@ a {
   text-decoration: underline;
 }
 
+a:hover {
+  background-color: #fff;
+}
+
 p {
   color: #fff;
   font-style: Serif;
