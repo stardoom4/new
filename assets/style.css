@@ -45,3 +45,7 @@ footer {
 img {
   width: 100%;
 }
+
+hr {
+  border-top: 1px dotted white;
+}
