@@ -8,11 +8,6 @@ a {
   text-decoration: underline;
 }
 
-p,
-h1,
-h2,
-h3,
-h4,
-hr {
+p {
   color: #fff;
 }
