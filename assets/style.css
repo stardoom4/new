@@ -2,3 +2,8 @@ body {
   background-color: #121212;
   font-color: #fff;
 }
+
+a {
+  color: #fff;
+  text-decoration: underline;
+}
