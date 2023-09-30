@@ -5,7 +5,11 @@ body {
   max-width: 1000px;
   margin: auto;
   border-radius: 10px;
-  border-color: #05d9e8;
+  border: #05d9e8;
+  border-width: thin;
+  overflow: hidden;
+  display: block;
+  box-sizing: border-box;
 }
 
 a {
