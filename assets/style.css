@@ -1,13 +1,13 @@
 body { 
   background-color: #121212;
   height: 100%;
-  padding: 6px;
+  padding: 8px;
 }
 
 a {
   color: #fff;
   text-decoration: underline;
-  margin-right: 14px;
+  margin-right: 20px;
 }
 
 a:hover {
@@ -48,7 +48,7 @@ footer {
 
 img {
   width: 100%;
-  border-radius: 8px;
+  border-radius: 12px;
 }
 
 hr {
@@ -57,4 +57,5 @@ hr {
 
 blockquote { 
   background: #212121
+  padding: 10px;
 }
