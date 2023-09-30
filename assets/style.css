@@ -6,10 +6,6 @@ body {
   margin: auto;
   border-radius: 10px;
   border: #05d9e8;
-  border-width: thin;
-  overflow: hidden;
-  display: block;
-  box-sizing: border-box;
 }
 
 a {
