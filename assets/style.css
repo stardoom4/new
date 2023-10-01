@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=BenchNine&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Germania+One&display=swap');
 
 body { 
   background-color: #121212;
@@ -29,17 +29,17 @@ p {
 
 h1 {
   color: #fff;
-  font-family: serif;
+  font-family: 'Germania One', cursive;
 }
 
 h2 {
   color: #fff;
-  font-family: serif;
+  font-family: 'Germania One', cursive;
 }
 
 h3 {
   color: #fff;
-  font-family: serif;
+  font-family: 'Germania One', cursive;
 }
 
 h4 {
