@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=BenchNine&display=swap');
+
 body { 
   background-color: #121212;
   height: 100%;
@@ -21,7 +23,7 @@ a:hover {
 
 p {
   color: #fff;
-  font-family: serif;
+  font-family: 'BenchNine', sans-serif;
   font-size: 16px;
 }
 
