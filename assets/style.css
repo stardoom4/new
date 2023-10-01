@@ -23,28 +23,28 @@ a:hover {
 
 p {
   color: #fff;
-  font-family: 'BenchNine', sans-serif;
+  font-family: serif;
   font-size: 24px;
 }
 
 h1 {
   color: #fff;
-  font-family: serif;
+  font-family: 'BenchNine', sans-serif;
 }
 
 h2 {
   color: #fff;
-  font-family: serif;
+  font-family: 'BenchNine', sans-serif;
 }
 
 h3 {
   color: #fff;
-  font-family: serif;
+  font-family: 'BenchNine', sans-serif;
 }
 
 h4 {
   color: #fff;
-  font-style: Serif;
+  font-style: 'BenchNine', sans-serif;
 }
 
 footer {
