@@ -13,7 +13,7 @@ body {
 a {
   color: #fff;
   text-decoration: underline;
-  margin-right: 16px;
+  margin-right: 8px;
 }
 
 a:hover {
@@ -54,7 +54,8 @@ footer {
 
 img {
   width: 100%;
-  border-radius: 12px;
+  border-radius: 8px;
+  margin-bottom: 14px;
 }
 
 hr {
