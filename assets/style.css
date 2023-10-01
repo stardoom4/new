@@ -21,23 +21,23 @@ a:hover {
 
 p {
   color: #fff;
-  font-style: Serif;
+  font-family: 'BenchNine', sans-serif;;
   font-size: 16px;
 }
 
 h1 {
   color: #fff;
-  font-style: Serif;
+  font-family: 'Germania One', cursive;
 }
 
 h2 {
   color: #fff;
-  font-style: Serif;
+  font-family: 'Germania One', cursive;
 }
 
 h3 {
   color: #fff;
-  font-style: Serif;
+  font-family: 'Germania One', cursive;
 }
 
 h4 {
